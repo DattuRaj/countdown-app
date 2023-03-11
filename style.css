@@ -1,0 +1,21 @@
+button{color: white;}
+body{background-color: rgba(26, 23, 23, 0.7);  font-weight: bold;
+    background-image: url('images/apple1.jpg');color: orange; font-size: 30px;
+}
+#cntdisplay
+
+{   width: 700px; height: 700px; 
+    
+display: flex;justify-content: center; 
+}
+input
+{
+    color: black; border: none; height: 70px; width: 60px; margin: 30px 30px; 
+    border-radius: 5PX; font-size: 35px; justify-content: center; font-weight: bold; color: orange; padding: 5px;
+}
+#id1
+{
+    margin-top: 100px;
+}
+#endDate
+{ height: 00px;}
